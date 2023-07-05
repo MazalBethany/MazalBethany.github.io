@@ -14,4 +14,4 @@ I currently work as a Graduate Research Assistant under Dr. Paul Rad in the Secu
 
 
 # News
--[Paper] 5/2023: Our paper titled "Towards Targeted Obfuscation of Adversarial Unsafe Images using Purification and Counterfactual Super Region Attribution Explainability" has been accepted for publication at USENIX Security 2023, a top cybersecurity conference, known as a "Big-4" conference in cybersecurity.
+* <span style="color: green;">[Paper].</span> 5/2023: Our paper titled "Towards Targeted Obfuscation of Adversarial Unsafe Images using Purification and Counterfactual Super Region Attribution Explainability" has been accepted for publication at USENIX Security 2023, a top cybersecurity conference, known as a "Big-4" conference in cybersecurity.
